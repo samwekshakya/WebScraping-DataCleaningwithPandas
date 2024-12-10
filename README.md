@@ -1,7 +1,7 @@
 # WebScraping-DataCleaningwithPandas
 A beginner project for web scrapping in python with pandas library.
 
-# This project demonstrates how to scrape data from the web and clean it using Python. It leverages libraries like BeautifulSoup for web scraping and pandas for data cleaning.
+This project demonstrates how to scrape data from the web and clean it using Python. It leverages libraries like BeautifulSoup for web scraping and pandas for data cleaning.
 
 # Features
 1. Web Scraping: Extracts data from Wikipedia pages using BeautifulSoup and requests.
